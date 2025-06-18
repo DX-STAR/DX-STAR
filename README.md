@@ -1,5 +1,5 @@
 <h1 align="center">✨ 𝓗𝓲, 𝓘'𝓶 𝓓𝓮𝓿𝓪𝓷𝓰 𝓖𝓾𝓹𝓽𝓪 ✨</h1>
-<h3 align="center">𝐀𝐈 & 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 | 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 | 𝐇𝐏𝐂 𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭</h3>
+<h3 align="center">𝐀𝐈 Engineer | 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
@@ -11,13 +11,13 @@
 <table> <tr> <td>
 🎓 Final year B.Tech student in Artificial Intelligence and Data Science
 
-👨‍💻 Interned at Seagate Technology: worked on GPU-based parallel computing and system profiling (NVVP)
+👨‍💻 Studied from Mumbai University
 
-🤖 Building intelligent systems that merge AI, Security, and Web Experiences
+🤖 Building intelligent systems that merge AI, Security, and Web Dev Experiences
 
 📍 Based in Mumbai, India
 
-📫 Reach me at: devanggupta.contact@gmail.com
+📫 Reach me at: devanggupta21@gmail.com
 
 </td> <td> <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/> </td> </tr> </table>
 
