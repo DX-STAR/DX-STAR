@@ -7,13 +7,19 @@
 
 ---
 
-### 🧑‍💻 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
+🧑‍💻 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
+<table> <tr> <td>
+🎓 Final year B.Tech student in Artificial Intelligence and Data Science
 
-- 🎓 Final year B.Tech student in **Artificial Intelligence and Data Science**
-- 👨‍💻 Interned at **Seagate Technology**: worked on GPU-based parallel computing and system profiling (NVVP)
-- 🤖 Building intelligent systems that merge **AI**, **Security**, and **Web Experiences**
-- 📍 Based in Mumbai, India
-- 📫 Reach me at: **devanggupta.contact@gmail.com**
+👨‍💻 Interned at Seagate Technology: worked on GPU-based parallel computing and system profiling (NVVP)
+
+🤖 Building intelligent systems that merge AI, Security, and Web Experiences
+
+📍 Based in Mumbai, India
+
+📫 Reach me at: devanggupta.contact@gmail.com
+
+</td> <td> <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/> </td> </tr> </table>
 
 ---
 
