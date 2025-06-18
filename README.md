@@ -1,5 +1,5 @@
 <h1 align="center">✨ 𝓗𝓲, 𝓘'𝓶 𝓓𝓮𝓿𝓪𝓷𝓰 𝓖𝓾𝓹𝓽𝓪 ✨</h1>
-<h3 align="center">𝐀𝐈/ML Enthusiast | 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 | 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐭</h3>
+<h3 align="center">𝐀𝐈/ML Engineer | 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 | 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐭</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
