@@ -1,5 +1,5 @@
 <h1 align="center">✨ 𝓗𝓲, 𝓘'𝓶 𝓓𝓮𝓿𝓪𝓷𝓰 𝓖𝓾𝓹𝓽𝓪 ✨</h1>
-<h3 align="center">𝐀𝐈 Engineer | 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</h3>
+<h3 align="center">𝐀𝐈/ML Enthusiast | 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 | 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐭</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
@@ -7,51 +7,53 @@
 
 ---
 
-🧑‍💻 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
-<table> <tr> <td>
-🎓 Final year B.Tech student in Artificial Intelligence and Data Science
+### 🧑‍💻 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
+<table> 
+<tr> 
+<td>
 
-👨‍💻 Studied from Mumbai University
+🎓 Final-year B.Tech student in Artificial Intelligence and Data Science (Mumbai University)  
+🧠 Focused on building intelligent systems with AI, Full-Stack Web Development & Data Analysis  
+🌐 Experienced in working with tools like AWS, Power BI, and TensorFlow for real-world projects  
+📍 Mumbai, India  
+📫 Reach me at: devanggupta21@gmail.com  
 
-🤖 Building intelligent systems that merge AI, Security, and Web Dev Experiences
-
-📍 Based in Mumbai, India
-
-📫 Reach me at: devanggupta21@gmail.com
-
-</td> <td> <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/> </td> </tr> </table>
+</td> 
+<td> 
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/> 
+</td> 
+</tr> 
+</table>
 
 ---
 
 ### 🚀 𝓟𝓻𝓸𝓳𝓮𝓬𝓽 𝓗𝓲𝓰𝓱𝓵𝓲𝓰𝓱𝓽𝓼
 
-💡 *Some of the most impactful work I’ve done so far...*
-
 #### 🧠 [FacialOcclusionNet](https://github.com/devanggupta/FacialOcclusionNet)
-> 🎯 Real-time face mask detection model for occluded faces  
-> 📌 TensorFlow, Python, OpenCV  
-> 📜 Research paper accepted at ICAISS 2024  
+> 🎯 Real-time face mask detection using Gamma2-MobileNet  
+> 📊 Achieved 99.34% accuracy under occlusions, poor lighting, and mask misplacement  
+> 🛠️ TensorFlow, Python, OpenCV, Transfer Learning
 
-#### 🔐 [PhishGuard](https://github.com/devanggupta/PhishGuard)
-> 🚨 ML-powered phishing URL detection with 85% accuracy  
-> 🔍 Features include domain analysis, HTTP headers, and SVM classifier  
-> 🔧 Python, Scikit-learn
+#### 🤖 [AI-Powered Hotel Booking Chatbot](https://github.com/devanggupta/HotelBot)
+> 🏨 Serverless chatbot with intelligent booking via AWS Lex & Lambda  
+> 🔐 Secure backend logic with structured S3 storage  
+> ☁️ AWS (Lex, Lambda, S3), Python
 
 #### ✈️ [Flight Booking UI](https://github.com/devanggupta/FlightBooking)
-> 🛫 A responsive UI for booking flights based on filters like price & duration  
-> 💻 HTML, CSS, JavaScript  
-> 🎨 Built for a seamless user experience
+> 🛫 Frontend app to search and filter flights based on price and duration  
+> 🎨 Designed with modern, responsive UI/UX  
+> 💻 HTML, CSS, JavaScript
 
 ---
 
 ### 🛠️ 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,html,css,nodejs,mongodb,mysql,git,github,figma,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,html,css,nodejs,mongodb,aws,tensorflow,pytorch,git,github,vscode&theme=light" />
 </p>
 
 🧰 Other Tools & Platforms:  
-`Jupyter Notebook` · `NVVP Profiler` · `Firebase` · `Netlify` · `GitHub Pages`
+`Power BI` · `Jupyter Notebook` · `OpenCV` · `Google Colab` · `Netlify`
 
 ---
 
@@ -71,11 +73,14 @@
 ### 🌍 𝓛𝓮𝓽'𝓼 𝓒𝓸𝓷𝓷𝓮𝓬𝓽
 
 <p align="center">
-  <a href="https://linkedin.com/in/devanggupta" target="_blank">
+  <a href="https://linkedin.com/in/devanggupta21" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white">
   </a>
-  <a href="mailto:devanggupta.contact@gmail.com">
+  <a href="mailto:devanggupta21@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://devanggupta.tech" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 </p>
 
@@ -83,10 +88,10 @@
 
 ### 🎯 𝓒𝓾𝓻𝓻𝓮𝓷𝓽 𝓖𝓸𝓪𝓵𝓼
 
-- 🧩 Strengthen my problem-solving for GATE & interviews  
-- 🌐 Launch a personal portfolio website  
-- 🤝 Contribute to **open-source AI/ML projects**  
-- 💻 Build & deploy more full-stack apps
+- 🧩 Sharpen DSA & problem-solving for placements  
+- 🚀 Build & deploy scalable full-stack and AI/ML projects  
+- 🌍 Contribute to open-source software  
+- 💼 Land an impactful software development or data analyst internship  
 
 ---
 
