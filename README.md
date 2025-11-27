@@ -95,7 +95,7 @@
 
 ---
 
-> 🧠 *“Your code is your canvas. Paint something meaningful.”*
+<p align="center">🧠 *“Your code is your canvas. Paint something meaningful.”* </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" />
